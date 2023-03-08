@@ -46,3 +46,5 @@ public class BootSpringBootApplication {
 * 이메일링크: <address@example.com>
 
 ![Alt text](/Github.png)
+
+[![Video Label](http://img.youtube.com/vi/1I3hMwQU6GU/0.jpg)](https://youtu.be/1I3hMwQU6GU)
