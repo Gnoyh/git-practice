@@ -49,6 +49,6 @@ public class BootSpringBootApplication {
 
 [![Video Label](http://img.youtube.com/vi/1I3hMwQU6GU/0.jpg)](https://youtu.be/1I3hMwQU6GU)
 
-~~Hello~~
-**Hello**  /  __Hello__
-*Hello*  /  _Hello_
+~~Hello~~     
+**Hello**  /  __Hello__     
+*Hello*  /  _Hello_     
